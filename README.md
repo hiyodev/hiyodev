@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I enjoy FE development work so I'm going to set new goals every year and work towards them. 
+
+### Personal Goals for Q3 and Q4 2023
+- Build 25 Web Projects. ( Currently 2/25 done )
+- Use more TypeScript and CSS libraries.
+- Read more on Web Designs and Development. 
+
 <!--
 **hiyodev/hiyodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
