@@ -4,6 +4,7 @@ I enjoy FE development work but I suck at it so I'm going to set new goals every
 
 ### Personal Goals for Q3 and Q4 2023
 - Build 25 Web Projects. ( Currently 2/25 done )
+- Live URL previews are available in the repos for the completed ones.
 1. https://github.com/hiyodev/apex-legends-app ( **Completed** )
 2. https://github.com/hiyodev/pomodoro-app ( **Completed** )
 3. https://github.com/hiyodev/quiz-app ( **In Progress** )
