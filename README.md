@@ -4,8 +4,9 @@ I enjoy FE development work but I suck at it so I'm going to set new goals every
 
 ### Personal Goals for Q3 and Q4 2023
 - Build 25 Web Projects. ( Currently 2/25 done )
-- Use more TypeScript and CSS libraries.
-- Read more on Web Designs and Development. 
+1. https://github.com/hiyodev/apex-legends-app ( DONE )
+2. https://github.com/hiyodev/pomodoro-app ( DONE )
+3. https://github.com/hiyodev/quiz-app ( In Progress )
 
 <!--
 **hiyodev/hiyodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
