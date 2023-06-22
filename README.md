@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I enjoy FE development work so I'm going to set new goals every year and work towards them. 
+I enjoy FE development work but I suck at it so I'm going to set new goals every year and work towards them. 
 
 ### Personal Goals for Q3 and Q4 2023
 - Build 25 Web Projects. ( Currently 2/25 done )
