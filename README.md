@@ -3,7 +3,7 @@ I enjoy FE development work but I suck at it so I'm going to set new goals every
 
 ### Personal Goals for Q3 and Q4 2023
 - Build 25 Web Projects. ( Currently 2/25 done )
-- Commit, no matter how big or small, at least once a day.
+- Contribute at least once a day.
 
 / 25 | Code Repo | Firebase URL | Status   |
 ------------ | ------------ | ------------ | ------------ |
