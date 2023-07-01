@@ -1,5 +1,6 @@
 ### Hi-Yo! 👋
-I'm a Junior FE Developer at a large bank. 
+I'm a Junior FE Developer at a large bank. Previously worked with C++, Java and a few other backend stuffs.
+
 I enjoy doing FE development work but I suck at it so I'm going to set new goals every year and work towards them. 
 
 ### Personal Goals for Q3 and Q4 2023
