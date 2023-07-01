@@ -1,9 +1,11 @@
 ### Hi-Yo! 👋
-I enjoy FE development work but I suck at it so I'm going to set new goals every year and work towards them. 
+I'm a Junior FE Developer at a large bank. 
+I enjoy doing FE development work but I suck at it so I'm going to set new goals every year and work towards them. 
 
 ### Personal Goals for Q3 and Q4 2023
 - Build 25 Web Projects. ( Currently 3/25 done )
 - Contribute at least once a day.
+- Stay consistent. 
 
 / 25 | Code Repo | Firebase URL | Status   |
 ------------ | ------------ | ------------ | ------------ |
