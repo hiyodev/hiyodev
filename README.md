@@ -10,7 +10,7 @@ I enjoy doing FE development work but I suck at it so I'm going to set new goals
 
 / 25 | Code Repo | Firebase URL | Status | Tech Stack |
 ------------ | ------------ | ------------ | ------------ | ------------ |
-4 | In Progress...  |  | **In Progress** | React-Vite, TS, MaterialUI | 
+4 | [pomodoro-v2-app](https://github.com/hiyodev/pomodoro-v2-app)  |  | **In Progress** | React-Vite, TS, MaterialUI | 
 3 | [quiz-app](https://github.com/hiyodev/quiz-app)  | [Live Preview](https://hiyo-quiz.web.app/) | **Completed** | React-CRA, JS, MaterialUI |
 2 | [pomodoro-app](https://github.com/hiyodev/pomodoro-app) | [Live Preview](https://hiyo-pomodoro.web.app/) | **Completed** | React-CRA, JS |
 1 | [apex-legends-app](https://github.com/hiyodev/apex-legends-app) | [Live Preview](https://hiyo-apexlegends.web.app/) | **Completed** | React-CRA, JS |
