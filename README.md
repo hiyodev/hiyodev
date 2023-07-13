@@ -4,9 +4,8 @@ I'm a Junior FE Developer at a large bank. Previously worked with C++, Java and 
 I enjoy doing FE development work but I suck at it so I'm going to set new goals every year and work towards them. 
 
 ### Personal Goals for Q3 and Q4 2023
-- Build 25 Web Projects. ( Currently 3/25 done )
-- Contribute at least once every 3 days and stay consistent.
-- Complete this: https://roadmap.sh/javascript and https://roadmap.sh/frontend
+- Build 10 Web Projects. ( Currently 3/10 done )
+- Complete this: https://roadmap.sh/javascript.
 
 / 25 | Code Repo | Firebase URL | Status | Tech Stack |
 ------------ | ------------ | ------------ | ------------ | ------------ |
