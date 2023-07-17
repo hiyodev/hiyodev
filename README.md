@@ -5,7 +5,8 @@ I enjoy doing FE development work but I suck at it so I'm going to set new goals
 
 ### Personal Goals for Year 2023.
 - Build 10 Web Projects. ( Currently 3/10 done )
-- Complete this: https://roadmap.sh/javascript.
+- Get good at building prototypes quick.
+- Explore more FE tech stacks.
 
 / 25 | Code Repo | Firebase URL | Status | Tech Stack |
 ------------ | ------------ | ------------ | ------------ | ------------ |
