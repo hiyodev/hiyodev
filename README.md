@@ -8,9 +8,9 @@ I enjoy doing FE development work but I suck at it so I'm going to set new goals
 - Get good at building prototypes quick.
 - Explore more FE tech stacks.
 
-/ 25 | Code Repo | Firebase URL | Status | Tech Stack |
+/ 25 | Code Repo | LIVE URL | Status | Tech Stack |
 ------------ | ------------ | ------------ | ------------ | ------------ |
-5 | [LearnKanji.org](https://www.learnkanji.org/) |[Hosted on Vercel](https://www.learnkanji.org/)  | Ongoing | React-NextJS, TypeScript, Zustand, TailwindCSS | 
+5 | [LearnKanji.org](https://www.learnkanji.org/) |[learnkanji.org](https://www.learnkanji.org/)  | Ongoing | React-NextJS, TypeScript, Zustand, TailwindCSS | 
 4 | [pomodoro-v2-app](https://github.com/hiyodev/pomodoro-v2-app)  | [Live Preview](https://pomodoro-v2-app.web.app/) | **Completed** | React-Vite, TypeScript, Redux Toolkit, Swiper, MaterialUI | 
 3 | [quiz-app](https://github.com/hiyodev/quiz-app)  | [Live Preview](https://hiyo-quiz.web.app/) | **Completed** | React-CRA, JS, MaterialUI |
 2 | [pomodoro-app](https://github.com/hiyodev/pomodoro-app) | [Live Preview](https://hiyo-pomodoro.web.app/) | **Completed** | React-CRA, JS, Styled-Components |
