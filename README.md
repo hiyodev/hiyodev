@@ -4,7 +4,10 @@ I'm a Junior FE Developer at a large bank. Previously worked with C++, Java and 
 I enjoy doing FE development work but I suck at it so I'm going to set new goals every year and work towards them. 
 
 ### Personal Goals for Year 2024.
-- Actually follow through on the goals this time round...
+1. Actually follow through on the goals this time round...
+2. Sometime in middle of 2024, get a tech job in Japan / US.
+3. Complete all of www.greatfrontend.com questions by March 2024.
+4. Brainstorm and build as many moderately complex React projects as possible.
 
 <details>
   <summary>2023 Goals ( archived )</summary>
