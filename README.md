@@ -3,6 +3,12 @@ I'm a Junior FE Developer at a large bank. Previously worked with C++, Java and 
 
 I enjoy doing FE development work but I suck at it so I'm going to set new goals every year and work towards them. 
 
+### Personal Goals for Year 2024.
+- Actually follow through on the goals this time round...
+
+<details>
+  <summary>2023 Goals ( archived )</summary>
+  
 ### Personal Goals for Year 2023.
 - Build 10 Web Projects. ( Currently 5/10 done )
 - Get good at building prototypes quick.
@@ -15,6 +21,7 @@ I enjoy doing FE development work but I suck at it so I'm going to set new goals
 3 | [quiz-app](https://github.com/hiyodev/quiz-app)  | [Live Preview](https://hiyo-quiz.web.app/) | **Completed** | React-CRA, JS, MaterialUI |
 2 | [pomodoro-app](https://github.com/hiyodev/pomodoro-app) | [Live Preview](https://hiyo-pomodoro.web.app/) | **Completed** | React-CRA, JS, Styled-Components |
 1 | [apex-legends-app](https://github.com/hiyodev/apex-legends-app) | [Live Preview](https://hiyo-apexlegends.web.app/) | **Completed** | React-CRA, JS, Styled-Components |
+</details>
 
 
 <!--
