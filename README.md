@@ -5,9 +5,10 @@ I enjoy doing FE development work but I suck at it so I'm going to set new goals
 
 ### Personal Goals for Year 2024.
 1. Actually follow through on the goals this time round...
-2. Complete all of www.greatfrontend.com questions by March 2024.
-3. Sometime in middle of 2024, work towards getting a tech job in Japan or the US.
-4. Brainstorm and build as many moderately complex React projects as possible this year.
+2. Revise as much JavaScript Fundamentals as possible. 
+3. Complete all of www.greatfrontend.com questions by March 2024.
+4. Sometime in middle of 2024, work towards getting a tech job in Japan or the US.
+5. Brainstorm and build as many moderately complex React projects as possible this year.
 
 <details>
   <summary>2023 Goals ( archived )</summary>
