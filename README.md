@@ -1,7 +1,7 @@
 ### Hi-Yo! 👋
 I'm a Junior FE Developer at a large bank. Previously worked with C++, Java and a few other backend stuffs.
 
-I enjoy doing FE development work but I suck at it so I'm going to practice as much as possible and learn. 
+I enjoy doing FE development work but I suck at it so I'm going to practice as much as possible and learn. One of my biggest dreams is to make it to a large internet company like TikTok. Either that or get a tech job in Tokyo. ( my hometown )
 
 
 ID | Code Repo | LIVE URL | Status | Tech Stack |
