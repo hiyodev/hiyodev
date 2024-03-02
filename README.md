@@ -5,8 +5,8 @@ Here is where I will share all my FE projects that I've built over my free-time.
 
 ID | Code Repo | LIVE URL | Status | Tech Stack | Summary |
 ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-2 | - | | **Ongoing Dev** | Vite-React, Redux Toolkit, ChakraUI | Crypto "What if I bought low and sold high?" App |
-1 | Private |[Live Preview](https://www.learnkanji.org/)  | **Ongoing Dev** | React-NextJS, TypeScript, Zustand, TailwindCSS | Japanese Kanji Revision App |
+2 | - | | **Ongoing Dev** | Vite-React, Redux Toolkit, ChakraUI | A fun "Oh what if I bought low and sold high?" Crypto-currency simulation App |
+1 | Private |[Live Preview](https://www.learnkanji.org/)  | **Ongoing Dev** | React-NextJS, TypeScript, Zustand, TailwindCSS | Minimalistic mobile-friendly Japanese Kanji revision App |
 </details>
 
 
