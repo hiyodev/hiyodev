@@ -5,9 +5,9 @@ I enjoy doing FE development work but I suck at it and my memory is awful so I'm
 
 
 ID | Code Repo | LIVE URL | Status | Tech Stack |
------------- | ------------ | ------------ | ------------ | ------------ |
-2 | - | | **Ongoing Dev** | Vite-React, Redux Toolkit, ChakraUI | 
-1 | Private |[Live Preview](https://www.learnkanji.org/)  | **Ongoing Dev** | React-NextJS, TypeScript, Zustand, TailwindCSS | 
+------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+2 | - | | **Ongoing Dev** | Vite-React, Redux Toolkit, ChakraUI | Crypto "What if I bought low and sold high?" App |
+1 | Private |[Live Preview](https://www.learnkanji.org/)  | **Ongoing Dev** | React-NextJS, TypeScript, Zustand, TailwindCSS | Japanese Kanji Revision App |
 </details>
 
 
