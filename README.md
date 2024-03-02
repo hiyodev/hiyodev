@@ -1,8 +1,7 @@
 ### Hi-Yo! 👋
-I'm a FE Developer at a large bank. Previously worked with C++, Java and a few other backend stuffs.
+I'm a FE Developer at a F500 company. 
 
-I enjoy doing FE development work but I suck at it and my memory is awful so I'm going to use this space to practice FE development, improve and hopefully get better at it. 
-
+Here is where I will share all my FE projects that I've built over my free-time. 
 
 ID | Code Repo | LIVE URL | Status | Tech Stack | Summary |
 ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
