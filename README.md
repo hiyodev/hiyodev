@@ -6,11 +6,8 @@ I enjoy doing FE development work but I suck at it and my memory is awful so I'm
 
 ID | Code Repo | LIVE URL | Status | Tech Stack |
 ------------ | ------------ | ------------ | ------------ | ------------ |
-5 | - |[Live Preview](https://www.learnkanji.org/)  | **Ongoing Dev** | React-NextJS, TypeScript, Zustand, TailwindCSS | 
-4 | [pomodoro-v2-app](https://github.com/hiyodev/pomodoro-v2-app)  | [Live Preview](https://pomodoro-v2-app.web.app/) | **Completed** | React-Vite, TypeScript, Redux Toolkit, Swiper, MaterialUI | 
-3 | [quiz-app](https://github.com/hiyodev/quiz-app)  | [Live Preview](https://hiyo-quiz.web.app/) | **Completed** | React-CRA, JS, MaterialUI |
-2 | [pomodoro-app](https://github.com/hiyodev/pomodoro-app) | [Live Preview](https://hiyo-pomodoro.web.app/) | **Completed** | React-CRA, JS, Styled-Components |
-1 | [apex-legends-app](https://github.com/hiyodev/apex-legends-app) | [Live Preview](https://hiyo-apexlegends.web.app/) | **Completed** | React-CRA, JS, Styled-Components |
+2 | - | | **Ongoing Dev** | Vite-React, Redux Toolkit, ChakraUI | 
+1 | Private |[Live Preview](https://www.learnkanji.org/)  | **Ongoing Dev** | React-NextJS, TypeScript, Zustand, TailwindCSS | 
 </details>
 
 
