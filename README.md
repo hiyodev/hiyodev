@@ -1,5 +1,5 @@
 ### Hi-Yo! 👋
-I'm a FE Developer at a F500 company. 
+I'm a FE Developer at the biggest South East Asia Bank. I hope to one day get a job in Japan and re-unite with my family. 
 
 Finalized and tested Apps that I've built as a hobby to share with friends and family. 
 ID | Code Repo | LIVE URL | Development Status | Tech Stack | Summary |
