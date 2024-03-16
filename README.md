@@ -1,5 +1,5 @@
 ### Hi-Yo! 👋
-I'm a FE Developer at the biggest South East Asia Bank. I hope to one day get a job in Japan and re-unite with my family. 
+I'm a FE Developer and one of my dreams is to get a job in Tokyo and re-unite with my family in Japan. 
 
 Finalized and tested Apps that I've built as a hobby to share with friends and family. 
 ID | Code Repo | LIVE URL | Development Status | Tech Stack | Summary |
