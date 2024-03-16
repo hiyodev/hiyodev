@@ -1,14 +1,23 @@
 ### Hi-Yo! 👋
 I'm a FE Developer at a F500 company. 
 
-Here is where I will share all my FE projects that I've built over my free-time. 
-
-ID | Code Repo | LIVE URL | Status | Tech Stack | Summary |
+Finalized and tested Apps that I've built as a hobby to share with friends and family. 
+ID | Code Repo | LIVE URL | Development Status | Tech Stack | Summary |
 ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-2 | - | | **Ongoing Dev** | Vite-React, Redux Toolkit, ChakraUI | A fun "Oh what if I bought low and sold high?" Crypto-currency simulation App |
-1 | Private |[Live Preview](https://www.learnkanji.org/)  | **Ongoing Dev** | React-NextJS, TypeScript, Zustand, TailwindCSS | Minimalistic mobile-friendly Japanese Kanji revision App |
+2 | - | | **In Progress** | Vite-React, TypeScript, Redux Toolkit, ChakraUI | A fun "Oh what if I bought low and sold high?" Crypto-currency simulation App |
+1 | Private |[www.learnkanji.org](https://www.learnkanji.org/)  | **In Progress** | React-NextJS, TypeScript, Zustand, TailwindCSS, Vercel | Minimalistic mobile-friendly Japanese Kanji revision App |
 </details>
 
+_________________________
+
+Experimental Apps that I've built to learn new tech stack and practice. 
+Note: these are **prototypes... Hence there may be bugs / errors.**
+ID | Live URL | Description |
+------------ | ------------ | ------------ |
+4 | https://pomodoro-v2-app.web.app/ | Better version of #2 App, mobile responsive design |
+3 | https://hiyo-quiz.web.app/ | Custom Quiz App with custom answers and questions |
+2 | https://hiyo-pomodoro.web.app/ | Pomodoro App with basic note taking functionality |
+1 | https://hiyo-apexlegends.web.app/ | Weapon cards for Apex Legends video game |
 
 <!--
 **hiyodev/hiyodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
