@@ -4,7 +4,7 @@ I'm a FE Developer and one of my dreams is to get a job in Tokyo and re-unite wi
 Finalized Apps that I've built as a hobby to share with friends and family. 
 ID | Code Repo | LIVE URL | Development Status | Tech Stack | Summary |
 ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-2 | - | | **In Progress** | Vite-React, TypeScript, Redux Toolkit Query, ChakraUI | A fun "Oh what if I bought low and sold high?" Crypto-currency simulation App |
+2 | - | | **In Progress** | Vite-React, TypeScript, Redux Toolkit Query, ChakraUI | Thinking... |
 1 | Private |[www.learnkanji.org](https://www.learnkanji.org/)  | **In Progress** | React-NextJS, TypeScript, Zustand, TailwindCSS, Vercel | Minimalistic mobile-friendly Japanese Kanji revision App |
 </details>
 
