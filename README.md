@@ -7,12 +7,12 @@
 Personal
 ____________
 #### Current Goals
-##### 1. Leetcode for 3 months straight. ( 29th Oct 2024 - 29th Jan 2025 )
+##### 1. Grind BFE and GFE quizzes and questions.
 ##### 2. Revise General JavaScript and React Concepts for at least an hour each, everyday.
 ##### 3. Create a Portfolio Website in NextJS and start building projects under it as routes. 
 
 ###### TODO: 29th Jan 2025
-###### 1. Post screenshot of LC Profile showcasing 3 months grind progress.
+###### 1. Post screenshot of BFE and GFE completion.
 ###### 2. Post screenshot of HabitTracker app history for those 2 habits.
 ###### 3. Share a Live URL of this app.
 
