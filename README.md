@@ -3,7 +3,10 @@
 I'm a frontend developer with 4+ YOE. This is where I will share and host some of my personal projects.
 
 #### Programming Language
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python,cpp)
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,cpp)
+
+#### Frontend
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwindcss,shadcn)
 
 #### Backend
 ![Backend](https://go-skill-icons.vercel.app/api/icons?i=postgresql,express)
